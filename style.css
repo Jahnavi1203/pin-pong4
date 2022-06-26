@@ -1,0 +1,31 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#modal-dialog{
+    width: 70%;
+    padding-top: 60px;
+}
+.footer{
+    position: fixed;
+    color: darkblue;
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    font-weight: bolder;
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    border: 2px solid white;
+    margin-top: 110px;
+}
